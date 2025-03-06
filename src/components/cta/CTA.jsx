@@ -10,6 +10,7 @@ function CTA() {
       </div>
       <div className="gpt3__cta-btn">
         <button type="button">Get Started</button>
+        
       </div>
     </div>
   );
